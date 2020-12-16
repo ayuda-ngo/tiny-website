@@ -13,8 +13,7 @@ const Main = () => {
         </a>
         <ul className="icons">
           <li>
-            <h3>Join the WhatsApp Group </h3>
-
+            <h3>Join the WhatsApp Group</h3>
             <IconButton
               href="https://chat.whatsapp.com/EaIdRV66hdgGQ0zif1XZwg"
               target="_blank"
@@ -23,9 +22,9 @@ const Main = () => {
             </IconButton>
           </li>
           <li>
-            <h3>Apply here </h3>
+            <h3>Apply here</h3>
             <IconButton
-              href="https://chat.whatsapp.https://docs.google.com/forms/d/e/1FAIpQLScwPKzLhm3hrVFWBW5NB_8FBYIfz_vYJ97qjB-IVZ4dU6oWOg/viewform/EaIdRV66hdgGQ0zif1XZwg"
+              href="https://docs.google.com/forms/d/e/1FAIpQLScwPKzLhm3hrVFWBW5NB_8FBYIfz_vYJ97qjB-IVZ4dU6oWOg/viewform/EaIdRV66hdgGQ0zif1XZwg"
               target="_blank"
             >
               <SupervisorAccountIcon />
