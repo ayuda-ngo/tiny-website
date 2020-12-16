@@ -1,7 +1,7 @@
 {
   "name": "tiny-website",
   "version": "0.1.0",
-  "homepage": "go.ngoayuda.com/recruitments2020",
+  "homepage": "https://go.ngoayuda.com",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.2",
@@ -11,6 +11,7 @@
     "@testing-library/user-event": "^12.1.10",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },

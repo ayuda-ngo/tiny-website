@@ -2,6 +2,7 @@ import WhatsAppIcon from "@material-ui/icons/WhatsApp";
 import IconButton from "@material-ui/core/IconButton";
 import SupervisorAccountIcon from "@material-ui/icons/SupervisorAccount";
 import Logo from "./logo.png";
+import { Redirect } from "react-router-dom";
 
 const Main = () => {
   return (
@@ -35,3 +36,8 @@ const Main = () => {
 };
 
 export default Main;
+
+
+export const RedirectComponent = () => (
+    <Redirect to="/recruitments2020"/>
+)
