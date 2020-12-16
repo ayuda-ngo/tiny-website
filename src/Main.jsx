@@ -24,7 +24,7 @@ const Main = () => {
           <li>
             <h3>Apply here</h3>
             <IconButton
-              href="https://docs.google.com/forms/d/e/1FAIpQLScwPKzLhm3hrVFWBW5NB_8FBYIfz_vYJ97qjB-IVZ4dU6oWOg/viewform/EaIdRV66hdgGQ0zif1XZwg"
+              href="https://docs.google.com/forms/d/e/1FAIpQLScwPKzLhm3hrVFWBW5NB_8FBYIfz_vYJ97qjB-IVZ4dU6oWOg/viewform"
               target="_blank"
             >
               <SupervisorAccountIcon />
