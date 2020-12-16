@@ -1,6 +1,7 @@
 html,
 body {
   background: #012;
+  margin: 0;
 }
 
 .center {
@@ -16,7 +17,7 @@ body {
   display: grid;
   place-items: center;
   height: 100vh;
-  width: 100%;
+  width: 100vw;
 }
 
 .MuiIconButton-label {
@@ -35,4 +36,13 @@ li {
 
 ul {
   margin-left: -40px;
+}
+
+@media (max-width: 768px) {
+  h3 {
+    font-size: 14px;
+  }
+  ul {
+    margin-left: -20px;
+  }
 }
